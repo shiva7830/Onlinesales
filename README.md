@@ -15,6 +15,6 @@ step 2:- after creating table now we have to insert data inside TABLE asde
  step 3:- now we have to retrieve data according to given question 
  
 	SELECT DEPT_NAME, AVG_MONTHLY_SALARY FROM asde 
-    ORDER BY AVG_MONTHLY_SALARY DESC LIMIT 3	;
+    ORDER BY AVG_MONTHLY_SALARY DESC LIMIT 3 ;
 
 
